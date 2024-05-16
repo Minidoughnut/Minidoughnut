@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olakunle Oyeniyi</h1>
-<h3 align="center">🚀 As a DevOps engineer, I enhance software delivery by bridging development and operations. I automate processes 🛠️, manage infrastructure 🖥️, and ensure efficient CI/CD pipelines with tools like Jenkins, Docker, and Kubernetes. My role involves monitoring systems 📈, troubleshooting issues, and boosting team collaboration 🤝. This results in faster, reliable, and scalable software deployment.</h3>
+<h3 align="center">🚀 As a DevOps engineer, I enhance software delivery by bridging development and operations. I automate processes 🛠️, manage infrastructure 🖥️, and ensure efficient CI/CD pipelines using cutting-edge technologies and innovative methodologies. My role also involves monitoring systems 📈, troubleshooting issues, and boosting team collaboration 🤝. This results in faster, reliable, and scalable software deployment.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minidoughnut&label=Profile%20views&color=0e75b6&style=flat" alt="minidoughnut" /> 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Azure, Terraform, Kubernetes, Jenkins, Ansible**
+- 🌱 I’m currently learning to **expand the core functionalities of K8s and also contribute to open-source projects**.
 
 - 💬 Feel free to ask me about anything related to:
 
